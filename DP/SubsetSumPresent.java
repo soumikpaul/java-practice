@@ -12,17 +12,17 @@ public class SubsetSumPresent {
             System.out.println("No subset with"
                     + " given sum");
 
-        if (isSubsetSumDP(set, n, sum) == true)
-            System.out.println("Found a subset"
-                    + " with given sum");
-        else
-            System.out.println("No subset with"
-                    + " given sum");
+//        if (isSubsetSumDP(set, n, sum) == true)
+//            System.out.println("Found a subset"
+//                    + " with given sum");
+//        else
+//            System.out.println("No subset with"
+//                    + " given sum");
     }
 
-    private boolean isSubsetSumDP(int[] set, int n, int sum) {
-        
-    }
+//    private boolean isSubsetSumDP(int[] set, int n, int sum) {
+//
+//    }
 
     private boolean isSubsetSum(int[] set, int n, int sum) {
         if(sum==0)

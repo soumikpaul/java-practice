@@ -27,7 +27,14 @@ public class DSAlgo {
 
 //        FriendsPairing friendsPairing= new FriendsPairing();
 //        friendsPairing.init();
-        SubsetSumPresent subsetSumPresent =new SubsetSumPresent();
-        subsetSumPresent.init();
+//        SubsetSumPresent subsetSumPresent =new SubsetSumPresent();
+//        subsetSumPresent.init();
+//        CutRod cutRod= new CutRod();
+//        cutRod.init();
+
+//        BinSeqFirstSecondHalfSame binSeqFirstSecondHalfSame= new BinSeqFirstSecondHalfSame();
+//        binSeqFirstSecondHalfSame.init();
+        Lcs lcs = new Lcs();
+        lcs.init();
     }
 }
