@@ -1,4 +1,5 @@
 import DP.*;
+import Greedy.LargestSumContSubarray;
 import Sort.HeapSort;
 import Sort.MergeSort;
 import Sort.Partition;
@@ -34,7 +35,19 @@ public class DSAlgo {
 
 //        BinSeqFirstSecondHalfSame binSeqFirstSecondHalfSame= new BinSeqFirstSecondHalfSame();
 //        binSeqFirstSecondHalfSame.init();
-        Lcs lcs = new Lcs();
-        lcs.init();
+//        Lcs lcs = new Lcs();
+//        lcs.init();
+//
+//        LIS lis = new LIS();
+//        lis.init();
+
+//        LargestSumContSubarray largestSumContSubarray = new LargestSumContSubarray();
+//        largestSumContSubarray.init();
+
+//        MaxSumNo2Adjacent maxSumNo2Adjacent = new MaxSumNo2Adjacent();
+//        maxSumNo2Adjacent.init();
+
+        MinCostPath minCostPath = new MinCostPath();
+        minCostPath.init();
     }
 }
