@@ -6,7 +6,7 @@ public class MinCostPath {
         int cost[][]= {{1, 2, 3},
                 {4, 8, 2},
                 {1, 5, 3}};
-        System.out.println(minCost(cost,2,2));
+        System.out.println(minCost(cost,1,2));
     }
 
     private int minCost(int[][] cost, int m, int n) {

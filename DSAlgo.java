@@ -47,7 +47,13 @@ public class DSAlgo {
 //        MaxSumNo2Adjacent maxSumNo2Adjacent = new MaxSumNo2Adjacent();
 //        maxSumNo2Adjacent.init();
 
-        MinCostPath minCostPath = new MinCostPath();
-        minCostPath.init();
+//        MinCostPath minCostPath = new MinCostPath();
+//        minCostPath.init();
+
+//        LongestCommonSusbtring longestCommonSusbtring = new LongestCommonSusbtring();
+//        longestCommonSusbtring.init();
+        ArrayEndScore arrayEndScore = new ArrayEndScore();
+        arrayEndScore.init();
+
     }
 }
